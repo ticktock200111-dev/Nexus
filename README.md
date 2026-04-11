@@ -37,5 +37,6 @@ It is built with scalability and maintainability in mind, making it suitable for
 │
 ├── index.html
 │
+
 └── README.md
 
