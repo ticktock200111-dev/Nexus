@@ -34,4 +34,7 @@ It is built with scalability and maintainability in mind, making it suitable for
 ---
 
 ## 🏗️ Project Structure
+│
+├── index.html / main # Entry point
+└── README.md
 
